@@ -20,6 +20,10 @@ CloudOps/DevOps Intern @ XBrain x AWS | AWS Solutions Architect Aspirant
 ---
 
 
+---
 ### 📬 Connect with me
-- 📧 Email: [nguyenvanhuyhoang2609@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/hoang-huy-6813ba370/]
+
+- 📧 **Email:** [nguyenvanhuyhoang2609@gmail.com](mailto:nguyenvanhuyhoang2609@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/hoang-huy-6813ba370/](https://www.linkedin.com/in/hoang-huy-6813ba370/)
+- 📄 **CV/Portfolio:** [Link đến file CV hoặc trang cá nhân của bạn]
+
