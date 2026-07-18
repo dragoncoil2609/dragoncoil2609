@@ -5,7 +5,8 @@ As a **DevOps/CloudOps Intern at XBrain x AWS**, I have been engineering solutio
 
 ## Technologies & Tools
 
-*   **Cloud & Infrastructure**: AWS (ECS Fargate, Lambda, S3, DynamoDB, AMP, CloudWatch, IAM), On-premise Linux (Ubuntu).
+*   **Cloud & Infrastructure**: ( EC2, EKS, ECS, Lambda, RDS, Bedrock, S3, SQS, SNS, IAM,
+KMS, CloudWatch.
 *   **Infrastructure as Code (IaC)**: Terraform (HCL), Bash Scripting.
 *   **CI/CD & Automation**: GitHub Actions, GitLab CI.
 *   **Containerization**: Docker.
@@ -16,9 +17,9 @@ As a **DevOps/CloudOps Intern at XBrain x AWS**, I have been engineering solutio
 ## Current Focus
 
 *   **Cloud Architecture**: Designing scalable foundations on AWS.
-*   **Proactive Observability**: Developing automated anomaly detection systems for large-scale microservices.
-*   **FinOps**: Implementing automated cost-optimization guardrails (Circuit Breakers).
-*   **Certification**: AWS Certified Solutions Architect – Associate (SAA-C03).
+*   **Proactive Observability**: Exploring automated anomaly detection systems for large-scale microservices.
+*   **FinOps**: Exploring automated cost-optimization guardrails (e.g., Circuit Breakers).
+*   **Deployment**: Optimizing CI/CD release cycles through advanced Blue-Green and Canary deployment strategies.
 
 ## Contact
 
