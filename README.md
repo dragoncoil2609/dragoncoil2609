@@ -5,7 +5,7 @@ As a **DevOps/CloudOps Intern at XBrain x AWS**, I have been engineering solutio
 
 ## Technologies & Tools
 
-*   **Cloud & Infrastructure**: EC2, EKS, ECS, Lambda, RDS, Bedrock, S3, SQS, SNS, IAM,
+*   **Cloud & Infrastructure**: EC2, EKS, ECS, ECR, Lambda, RDS, Bedrock, S3, SQS, SNS, IAM,
 KMS, CloudWatch.
 *   **Infrastructure as Code (IaC)**: Terraform (HCL), Bash Scripting.
 *   **CI/CD & Automation**: GitHub Actions, GitLab CI.
