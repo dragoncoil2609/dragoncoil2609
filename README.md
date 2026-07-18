@@ -17,10 +17,6 @@ CloudOps/DevOps Intern @ XBrain x AWS | AWS Solutions Architect Aspirant
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragoncoil2609&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoil2609&layout=compact&theme=radical)
 
 ### 📬 Connect with me
 - 📧 Email: [nguyenvanhuyhoang2609@gmail.com]
